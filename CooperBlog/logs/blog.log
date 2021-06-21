@@ -1,0 +1,10 @@
+INFO 2021-06-22 01:15:16,193 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-06-22 01:15:19,505 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2021-06-22 01:16:13,235 autoreload 240 F:\GoogleDownLoad\project\django_blog\CooperBlog\CooperBlog\urls.py changed, reloading.
+INFO 2021-06-22 01:16:21,698 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-06-22 01:16:42,526 autoreload 240 F:\GoogleDownLoad\project\django_blog\CooperBlog\CooperBlog\urls.py changed, reloading.
+INFO 2021-06-22 01:16:48,808 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-06-22 01:16:52,549 autoreload 240 F:\GoogleDownLoad\project\django_blog\CooperBlog\CooperBlog\urls.py changed, reloading.
+INFO 2021-06-22 01:17:00,253 autoreload 617 Watching for file changes with StatReloader
+INFO 2021-06-22 01:17:04,754 urls 24 info
+INFO 2021-06-22 01:17:04,763 basehttp 157 "GET / HTTP/1.1" 200 10
